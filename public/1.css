@@ -1,0 +1,87 @@
+*{}
+
+h1.display-3 {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.menubar {
+    margin-left: 40px;
+}
+
+.react-date-picker.react-date-picker--closed.react-date-picker--enabled {
+    width: 100%;
+    height: 100%;
+}
+
+.react-date-picker__wrapper {
+    width: 100%;
+}
+
+.react-date-picker__wrapper {
+    border-radius: 4px;
+}
+
+.react-date-picker.react-date-picker--open.react-date-picker--enabled {
+    width: 100%;
+}
+
+.ngay {
+    width: 100%;
+    height: 34px;
+}
+
+.tien input[type="text"] {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.tien {
+    width: 100%;
+    height: 34px;
+   
+}
+
+.card-header.text-xs-center {
+    display: block;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 600;
+}
+
+.bang {
+    margin: 44px 0;
+}
+
+
+.row {
+    padding: 0 35px;
+}
+
+
+button.btn.btn-primary {
+    width: 160px;
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+    margin-left: -80px;
+    z-index: 5;
+}
+
+.card-body {
+    padding: 0 40px 65px;
+    box-sizing: border-box;
+  
+}
+
+.card {
+    border: 1px solid gray;
+    /* width: 350px;
+    margin-left: 20px; */
+}
+
+.jumbotron {
+    text-align: center;
+}
