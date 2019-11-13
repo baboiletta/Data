@@ -29,8 +29,8 @@ class Tables extends Component {
                                 <td>CSKH</td>
                                 <td>Nội dung</td>
                                 <td>
-                                    <button type="button" className="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i> Xóa</button>
-                                    <button type="button" className="btn btn-info"><i class="fa fa-user" aria-hidden="true"></i> Sửa</button>
+                                    <button type="button" className="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i>  </button>
+                                    <button type="button" className="btn btn-info"><i class="fa fa-user" aria-hidden="true"></i>   </button>
                                 </td>
                             </tr>
                             <tr>
@@ -43,8 +43,8 @@ class Tables extends Component {
                                 <td>Nội dung</td>
 
                                 <td>
-                                   <button type="button" className="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i> Xóa</button>
-                                    <button type="button" className="btn btn-info"><i class="fa fa-user" aria-hidden="true"></i> Sửa</button>
+                                   <button type="button" className="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i>  </button>
+                                    <button type="button" className="btn btn-info"><i class="fa fa-user" aria-hidden="true"></i>   </button>
                                 </td>
                             </tr>
                             <tr>
@@ -57,8 +57,8 @@ class Tables extends Component {
                                 <td>Nội dung</td>
 
                                 <td>
-                                   <button type="button" className="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i> Xóa</button>
-                                    <button type="button" className="btn btn-info"><i class="fa fa-user" aria-hidden="true"></i> Sửa</button>
+                                   <button type="button" className="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i>  </button>
+                                    <button type="button" className="btn btn-info"><i class="fa fa-user" aria-hidden="true"></i>   </button>
                                 </td>
                             </tr>
                             <tr>
@@ -70,8 +70,8 @@ class Tables extends Component {
                                 <td>CSKH</td>
                                 <td>Nội dung</td>
                                 <td>
-                                   <button type="button" className="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i> Xóa</button>
-                                    <button type="button" className="btn btn-info"><i class="fa fa-user" aria-hidden="true"></i> Sửa</button>
+                                   <button type="button" className="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i>  </button>
+                                    <button type="button" className="btn btn-info"><i class="fa fa-user" aria-hidden="true"></i>   </button>
                                 </td>
                             </tr>
                             <tr>
@@ -83,8 +83,8 @@ class Tables extends Component {
                                 <td>NVL</td>
                                 <td>Nội dung</td>
                                 <td>
-                                    <button type="button" className="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i> Xóa</button>
-                                    <button type="button" className="btn btn-info"><i class="fa fa-user" aria-hidden="true"></i> Sửa</button>
+                                    <button type="button" className="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i>  </button>
+                                    <button type="button" className="btn btn-info"><i class="fa fa-user" aria-hidden="true"></i>   </button>
                                 </td>
                             </tr>
                         </tbody>
